@@ -12,6 +12,6 @@ copyright = "2026"
 build_number = 6
 
 [tool.flet.android]
-min_sdk_version = 23
+min_sdk_version = 24
 target_sdk_version = 35
 split_per_abi = false
